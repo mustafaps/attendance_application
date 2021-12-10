@@ -1,10 +1,16 @@
 <?php
 
     //PDO secure and reduce the connection to db there is mysql and mysqli
-    $host = '127.0.0.1';
-    $db = 'attendance_db';
-    $user = 'root';
-    $pass = '';
+    // $host = '127.0.0.1';
+    // $db = 'attendance_db';
+    // $user = 'root';
+    // $pass = '';
+    // $charset = 'utf8mb4';
+
+    $host = 'sql11.freesqldatabase.com';
+    $db = 'sql11457666';
+    $user = 'sql11457666';
+    $pass = 'v28vniS89v';
     $charset = 'utf8mb4';
 
     $dsn = "mysql:host=$host;dbname=$db;charset=$charset";   //data source name
