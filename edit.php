@@ -60,6 +60,7 @@
             </div>
             <!-- Submit Button -->
             
+            <a href="viewrecords.php" class="btn btn-default">Back to List</a>
             <button type="submit" name="submit" class="btn btn-success">Save Changes</button>
 
         </form>
